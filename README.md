@@ -85,40 +85,15 @@ Developed an automation-oriented backend project using different N8N nodes.
 
 ## 📚 Currently Learning
 
-```text
-Backend Architecture
-        ↓
-REST API Design
-        ↓
-Authentication & Authorization
-        ↓
-Database Design
-        ↓
-Clean & Maintainable Code
-        ↓
-Full-Stack Development
-```
-
 I'm currently focusing on becoming stronger in **backend development and software architecture**, while continuing to improve my React skills.
-
----
-
-## 🎯 2026 Focus
-
-* Build production-oriented full-stack applications
-* Improve Node.js & Express.js expertise
-* Strengthen database and API design skills
-* Learn more about scalable backend architecture
-* Build high-quality projects for my GitHub portfolio
-* Contribute to real-world software projects
 
 ---
 
 ## 📊 GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aysegules&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysegules&layout=compact&hide_border=true" height="165"/>
 </p>
 
 ---
@@ -126,10 +101,10 @@ I'm currently focusing on becoming stronger in **backend development and softwar
 ## 🤝 Let's Connect
 
 <p align="left">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/aysegules">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/ayseguleski">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
