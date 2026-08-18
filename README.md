@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Aysegul. 
+
 <!--
 **aysegules/aysegules** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
