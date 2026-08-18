@@ -89,22 +89,13 @@ I'm currently focusing on becoming stronger in **backend development and softwar
 
 ---
 
-## 📊 GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aysegules&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysegules&layout=compact&hide_border=true" height="165"/>
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 <p align="left">
   <a href="https://github.com/aysegules">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/ayseguleski">
+  <a href="https://www.linkedin.com/in/ayseguleski">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
