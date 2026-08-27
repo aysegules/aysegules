@@ -1,4 +1,4 @@
-# Hey, I'm Ayşegül 👋
+# Hey, I'm Ayşegül
 
 ### Computer Engineer · Software Developer
 
