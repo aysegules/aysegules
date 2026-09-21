@@ -65,7 +65,7 @@ Implemented concepts including:
 
 ### 📱 .NET MAUI — Dynamic Applications
 
-Developed application screens for a CarrefourSA checkout project using .NET MAUI.
+Developed application screens for a checkout project using .NET MAUI.
 
 Also worked on a vehicle tracking application where UI screens were generated dynamically at runtime based on JSON configurations.
 
